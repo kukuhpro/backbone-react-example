@@ -1,0 +1,32 @@
+{
+  "name": "LearnByDoing",
+  "version": "0.0.1",
+  "author": "Kukuh Prabowo",
+  "description": "Code is design as to learn",
+  "dependencies": {
+    "backbone": "^1.3.2",
+    "history": "^2.0.0",
+    "jquery": "^2.2.2",
+    "lodash": "^4.6.1",
+    "masonry-layout": "^4.0.0",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3",
+    "react-router": "^2.0.0",
+    "reactify": "^1.1.0"
+  },
+  "devDependencies": {
+    "browserify": "latest",
+    "browserify-shim": "latest",
+    "grunt": "latest",
+    "grunt-browserify": "latest",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-watch": "~0.6.0",
+    "grunt-react": "latest",
+    "matchdep": "latest",
+    "grunt-express": "~1.2.1",
+    "grunt-open": "~0.2.3",
+    "grunt-parallel": "latest",
+    "grunt-contrib-sass": "~0.9.0",
+    "grunt-contrib-concat": "~1.0.0"
+  }
+}

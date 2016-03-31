@@ -1,0 +1,20 @@
+.images {
+	&-content {
+		padding : 25px;
+	}
+	&-list {
+		display : inline-block; 
+		position : relative;
+		img {
+			width : 300px;  
+			height : 300px;
+			display : inline-block; 
+		}
+		video {
+			width : 300px;
+			height : 300px;
+			vertical-align : middle;
+			background-color : black;   
+		}
+	}
+}
