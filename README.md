@@ -5,7 +5,7 @@ This is an example about backbone combine with reactjs, this example use Imgur A
 * Install GruntJS 
 
 #### How to try it
-##### in your terminal/console add project folder
+##### Go to this project directory in your terminal/console 
 ```
 grunt live
 ```
